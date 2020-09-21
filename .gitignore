@@ -1,0 +1,31 @@
+#VirtualEnvironment
+bin/
+include/
+local/
+share/
+
+# Caches
+__pycache__/
+*.pyc
+*.cfg
+.pytest_cache/
+
+#Incomplete Project
+
+#MacOS
+.DS_Store
+
+#VSCode
+.vscode/
+
+#Setup
+PCC_bots.egg-info/
+dist/
+build/
+.eggs/
+
+#Coverage
+.coverage
+
+#Driver
+chromedriver

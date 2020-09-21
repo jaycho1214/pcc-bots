@@ -1,0 +1,49 @@
+{
+    "data": {
+        "sel_subj": [
+            "dummy",
+            "%"
+        ],
+        "sel_day": "dummy",
+        "sel_schd": [
+            "dummy",
+            "%"
+        ],
+        "sel_camp": [
+            "dummy",
+            "%"
+        ],
+        "sel_ism": [
+            "dummy",
+            "%"
+        ],
+        "sel_sess": [
+            "dummy",
+            "%"
+        ],
+        "sel_instr": [
+            "dummy",
+            "%"
+        ],
+        "sel_ptrm": [
+            "dummy",
+            "%"
+        ],
+        "sel_attrib": [
+            "dummy",
+            "%"
+        ],
+        "sel_crse": "",
+        "sel_crn": "",
+        "sel_title": "",
+        "begin_hh": "5",
+        "begin_mi": "0",
+        "begin_ap": "a",
+        "end_hh": "11",
+        "end_mi": "0",
+        "end_ap": "p",
+        "aa": "N",
+        "bb": "N",
+        "ee": "N"
+    }
+}
